@@ -1,0 +1,36 @@
+﻿
+> virtual-campus-companion@1.0.0 build
+> next build
+
+  Γû▓ Next.js 14.2.35
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/10) ...
+   Generating static pages (2/10) 
+   Generating static pages (4/10) 
+   Generating static pages (7/10) 
+ Γ£ô Generating static pages (10/10)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+Γöî Γùï /                                    3.32 kB         100 kB
+Γö£ Γùï /_not-found                          873 B          88.8 kB
+Γö£ Γùï /admin                               3.61 kB         100 kB
+Γö£ ╞Æ /api/admin/paths                     0 B                0 B
+Γö£ ╞Æ /api/security/log                    0 B                0 B
+Γö£ Γùï /map                                 3.87 kB         101 kB
+Γö£ Γùï /resources                           3.89 kB         101 kB
+Γöö Γùï /tour                                4.29 kB         101 kB
++ First Load JS shared by all            87.9 kB
+  Γö£ chunks/117-baab43fc83142998.js       31.7 kB
+  Γö£ chunks/fd9d1056-87da80e0c187477b.js  53.6 kB
+  Γöö other shared chunks (total)          2.52 kB
+
+
+Γùï  (Static)   prerendered as static content
+╞Æ  (Dynamic)  server-rendered on demand
+

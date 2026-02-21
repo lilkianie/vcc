@@ -1,0 +1,103 @@
+{
+    "locations": [
+        {
+            "id": "main-building",
+            "name": "Main Building",
+            "description": "The historic main building houses administrative offices and lecture halls.",
+            "imageUrl": "/360-tours/main-building/main-gate.jpg",
+            "videoUrl": "/360-tours/main-building/video.mp4",
+            "thumbnailUrl": "/360-tours/main-building/main-gate.jpg",
+            "hotspots": [
+                {
+                    "pitch": 0,
+                    "yaw": 45,
+                    "type": "info",
+                    "text": "Main Entrance"
+                },
+                {
+                    "pitch": -10,
+                    "yaw": -30,
+                    "type": "link",
+                    "text": "Go to Library",
+                    "targetId": "library"
+                }
+            ]
+        },
+        {
+            "id": "dean-office",
+            "name": "Dean's Office",
+            "description": "State-of-the-art library with extensive digital and physical collections.",
+            "imageUrl": "/360-tours/dean-office/panorama.jpg",
+            "videoUrl": "/360-tours/dean-office/video.mp4",
+            "thumbnailUrl": "/360-tours/dean-office/panorama.jpg",
+            "hotspots": [
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "Reading Area"
+                },
+                {
+                    "pitch": 5,
+                    "yaw": 90,
+                    "type": "info",
+                    "text": "Computer Lab"
+                }
+            ]
+        },
+        {
+            "id": "founders-building",
+            "name": "Founders Building",
+            "description": "Hub for student activities, organizations, and social gatherings.",
+            "imageUrl": "/360-tours/founders-building/panorama.jpg",
+            "videoUrl": "/360-tours/founders-building/video.mp4",
+            "thumbnailUrl": "/360-tours/founders-building/panorama.jpg",
+            "hotspots": [
+                {
+                    "pitch": 0,
+                    "yaw": -45,
+                    "type": "info",
+                    "text": "Student Lounge"
+                }
+            ]
+        },
+        {
+            "id": "classroom",
+            "name": "Classroom",
+            "description": "Modern dining facility serving a variety of cuisines.",
+            "imageUrl": "/360-tours/classroom/panorama.jpg",
+            "videoUrl": "/360-tours/classroom/video.mp4",
+            "thumbnailUrl": "/360-tours/classroom/panorama.jpg",
+            "hotspots": [
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "Dining Area"
+                },
+                {
+                    "pitch": -5,
+                    "yaw": 120,
+                    "type": "info",
+                    "text": "Food Stations"
+                }
+            ]
+        },
+        {
+            "id": "cetafa",
+            "name": "Cetafa",
+            "description": "Beautiful outdoor spaces and walkways throughout the campus.",
+            "imageUrl": "/360-tours/cetafa/panorama.jpg",
+            "videoUrl": "/360-tours/cetafa/video.mp4",
+            "thumbnailUrl": "/360-tours/cetafa/panorama.jpg",
+            "hotspots": [
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "Central Plaza"
+                }
+            ]
+        }
+    ]
+}

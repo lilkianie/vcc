@@ -1,0 +1,16 @@
+# Placeholder for 360° panorama image
+
+Place your 360° equirectangular image here.
+
+**File Requirements:**
+- Format: JPG or PNG
+- Projection: Equirectangular (2:1 aspect ratio)
+- Recommended Resolution: 4096x2048 or higher
+- File Size: Under 5MB
+- Filename: panorama.jpg or panorama.png
+
+**How to Create:**
+1. Capture 360° photo with a 360° camera
+2. Export in equirectangular format
+3. Optimize for web
+4. Replace this file with your image
