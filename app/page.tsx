@@ -54,9 +54,14 @@ export default function HomePage() {
                     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
                         <div className="flex items-center justify-between">
                             <div className="flex items-center gap-3">
-                                <div className="w-12 h-12 bg-gradient-to-br from-primary-600 to-primary-800 rounded-lg flex items-center justify-center text-white font-bold text-xl">
-                                    UB
-                                </div>
+                                <Image
+                                    src="/logo.png"
+                                    alt="University of Bohol Logo"
+                                    width={48}
+                                    height={48}
+                                    className="rounded-lg"
+                                    priority
+                                />
                                 <div>
                                     <h1 className="text-xl font-bold text-gray-900">Virtual Campus Companion</h1>
                                     <p className="text-sm text-gray-600">University of Bohol</p>
